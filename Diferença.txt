@@ -1,0 +1,4 @@
+Alocação Estática: É simples e rápida, mas não flexível quanto ao tamanho.
+
+Alocação Dinâmica: Oferece flexibilidade, permitindo alocar memória conforme necessário em tempo de execução, mas requer cuidados adicionais, 
+como verificação de falhas de alocação e liberação da memória quando não for mais necessária.
